@@ -44,45 +44,6 @@ The data can be found in this repository
 
 The target for this project is `ignition`
 
-## Submission
-
-If something is not clear, you can ask questions to the recruiter.
-
-When submitting your project, your version should **not be draft** but complete and following best practices.
-
-The solution should be saved on a **private** `descartes-data-sci` repository on your github account.
-
-The solution should include:
-- notebooks **with outputs**
-
-When the final version is ready:
-
-1. Send an email to the recruiter indicating that you finished the project and sharing the url of the project
-2. Grant access to:
-
-- <https://github.com/SanaNABLI>
-- <https://github.com/ClotildeLange>
-
-## Duration
-
-Preparing the test should take around 4 hours.
-
-We will discuss about the project during the technical interview.
-
-## Reviewer-recommendation
-
-The code in the 3rd notebook should explicitly:
-
-- perform data analysis and preprocessing of the dataset
-- return the performance of the algorithms tested using the appropriate metric
-- explain with markdown comments important preprocessing and important modelling decisions including metric selection
-
-Performance is **not** the main goal.
-
-The first objective of the project is to write the main steps of a data-science project with a **proper style** and **well written comments**.
-
-The algorithms used do not have to be hyper-optimized on all parameters. However, the project should test different algorithms adapted to the type of problem.
-
 ## FAQ
 
 We can answer specific questions on the variables but we won't provide a dictionary of variables.
