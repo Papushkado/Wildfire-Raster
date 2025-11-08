@@ -1,4 +1,4 @@
-# data-scientist-technical-test
+# Wildfire raster project
 
 ## Context
 
